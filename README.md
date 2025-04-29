@@ -1,2 +1,34 @@
 # ecommerce-catalogue
 A responsive web application displaying an e-commerce product catalogue with filtering and search functionality.
+# 🛍️ E-Commerce Product Catalogue
+
+This is a responsive web application that showcases an e-commerce product catalogue. It displays a collection of products with features like search, filtering, and detailed product views. Built using HTML, CSS, and JavaScript.
+
+## 📌 Features
+
+- Responsive design for desktop and mobile
+- Dynamic product listing from JSON data
+- Product detail page
+- Search and category filter functionality
+- Clean UI using vanilla CSS (or Tailwind/Bootstrap if used)
+
+## 🧰 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- [Optional: Bootstrap / Tailwind CSS]
+- JSON for product data
+
+## 🖼️ Screenshots
+
+*(Add screenshots or GIFs of your UI here if available)*
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/yourusername/ecommerce-catalogue.git
+cd ecommerce-catalogue
+open index.html
